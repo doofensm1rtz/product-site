@@ -1,7 +1,7 @@
-import src from "*.svg";
 import React from "react";
 import { Link } from "react-router-dom";
 import { Button } from "./Button";
+import "./HeroSection.css";
 
 function HeroSection({
   lightBg,
